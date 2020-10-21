@@ -1,0 +1,12 @@
+D:\C#\linq-quiz-danielhofmann600\LinqQuiz.Library\obj\Debug\net5.0\LinqQuiz.Library.csprojAssemblyReference.cache
+D:\C#\linq-quiz-danielhofmann600\LinqQuiz.Library\obj\Debug\net5.0\LinqQuiz.Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\C#\linq-quiz-danielhofmann600\LinqQuiz.Library\obj\Debug\net5.0\LinqQuiz.Library.AssemblyInfoInputs.cache
+D:\C#\linq-quiz-danielhofmann600\LinqQuiz.Library\obj\Debug\net5.0\LinqQuiz.Library.AssemblyInfo.cs
+D:\C#\linq-quiz-danielhofmann600\LinqQuiz.Library\obj\Debug\net5.0\LinqQuiz.Library.csproj.CoreCompileInputs.cache
+D:\C#\linq-quiz-danielhofmann600\LinqQuiz.Library\bin\Debug\net5.0\LinqQuiz.Library.deps.json
+D:\C#\linq-quiz-danielhofmann600\LinqQuiz.Library\bin\Debug\net5.0\LinqQuiz.Library.dll
+D:\C#\linq-quiz-danielhofmann600\LinqQuiz.Library\bin\Debug\net5.0\ref\LinqQuiz.Library.dll
+D:\C#\linq-quiz-danielhofmann600\LinqQuiz.Library\bin\Debug\net5.0\LinqQuiz.Library.pdb
+D:\C#\linq-quiz-danielhofmann600\LinqQuiz.Library\obj\Debug\net5.0\LinqQuiz.Library.dll
+D:\C#\linq-quiz-danielhofmann600\LinqQuiz.Library\obj\Debug\net5.0\ref\LinqQuiz.Library.dll
+D:\C#\linq-quiz-danielhofmann600\LinqQuiz.Library\obj\Debug\net5.0\LinqQuiz.Library.pdb
