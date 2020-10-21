@@ -96,10 +96,7 @@ namespace LinqQuiz.Library
         /// </remarks>
         public static (char letter, int numberOfOccurrences)[] GetLetterStatistic(string text)
         {
-            return text.ToLower().Where(c => 'a' > c && c < 'z').GroupBy(c => c).Select(t =>
-            {
-                return (t.Key, t.Count() );
-            }).ToArray();
+            return text.ToUpper().Where(c => Char.IsLetter(c)).GroupBy(c => c).Select(t => (t.Key, t.Count() )).ToArray();
         }
     }
 }
